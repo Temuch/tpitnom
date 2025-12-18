@@ -1,2 +1,9 @@
-# tpitnom
-Subject home tasks
+## Задание 5: Документация Doxygen
+
+### Скриншоты документации
+
+![Главная страница документации](task5/screenshot.png)
+
+![Конфигурация Doxygen](task5/config.png)
+
+**Сгенерированная документация**: [HTML документация](task5/html/)
